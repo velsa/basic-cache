@@ -1,7 +1,0 @@
-# Basic cache implementation with tests
-
-How to use:
-
-```bash
-pnpm run test
-```
