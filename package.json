@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
-    "test": "jest --env=node --colors --coverage test"
+    "test": "jest --env=node --colors"
   },
   "keywords": [],
   "author": "",

@@ -7,5 +7,7 @@
 ## How to use:
 
 ```bash
+pnpm install
+
 pnpm run test
 ```
