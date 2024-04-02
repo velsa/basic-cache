@@ -2,7 +2,7 @@
 
 ## Diagram:
 
-![diagram](https://raw.githubusercontent.com/velsa/basic-cache/main/diagram.svg)
+![diagram](https://raw.githubusercontent.com/velsa/basic-cache/main/diagram.png)
 
 ## How to use:
 
